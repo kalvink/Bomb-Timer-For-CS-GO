@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bomb Timer for CSGO</string>
+    <string name="start">START</string>
+    <string name="bombtime_40">40</string>
+</resources>
